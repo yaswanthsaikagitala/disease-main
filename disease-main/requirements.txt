@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+numpy
+matplotlib
+pandas
+scikit-learn
+dotenv
+PyPDF2
+keras
+tensorflow
+pandas
+scikit-learn
+numpy
+seaborn
